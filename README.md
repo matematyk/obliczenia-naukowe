@@ -1,0 +1,3 @@
+# obliczenia-naukowe
+
+Exercises
